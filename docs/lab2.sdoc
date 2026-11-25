@@ -15,3 +15,28 @@ STATEMENT: >>>
 For students, staff and parents who need dependable daily transport, UniRide is a campus transport management system that lets users check a seat, fee status and bus status in one place. Unlike paper registers and counter payments, our product gives the transport office live seat availability and demand data for every route.
 <<<
 
+[TEXT]
+STATEMENT: >>>
+## 3. Objectives
+
+1. Faster seat registration - Measure: staff hours spent registering seats at semester start. Target: from about three working days to under one hour, within one term.
+2. Fewer fee disputes - Measure: disputes the accounts office handles per month. Target: at least 70% fewer, within two terms.
+3. Less overcrowding - Measure: share of trips with more passengers than seats. Target: under 5% of trips, within one term.
+<<<
+
+[TEXT]
+STATEMENT: >>>
+## 4. Scope
+
+In scope:
+- Seat booking and cancellation
+- Fee payment status per student
+- Trip start and end reporting by drivers
+- Passenger list per bus for gate security
+
+Out of scope:
+- Route planning and optimisation
+- Vehicle maintenance management
+- Driver payroll
+- Building a payment gateway
+<<<
