@@ -1,0 +1,17 @@
+[DOCUMENT]
+TITLE: Lab 2 - UniRide Problem Statement and Vision
+
+[TEXT]
+STATEMENT: >>>
+## 1. Problem Statement
+
+Students and staff travel to campus on about 25 university buses running Peshawar routes. Seats are written in a paper register at the start of each semester, a job that takes staff about three days, and fees are paid at the accounts counter. Nobody can tell where a bus is, whether it is full, or whether a student has boarded, so parents wait without news and passengers wait at stops without information. Some routes run overcrowded while others run nearly empty. Each month, fee disputes take up the time of the transport in-charge and accounts staff, and the university has no reliable record of demand on each route, so it cannot plan how many buses each route needs.
+<<<
+
+[TEXT]
+STATEMENT: >>>
+## 2. Vision Statement
+
+For students, staff and parents who need dependable daily transport, UniRide is a campus transport management system that lets users check a seat, fee status and bus status in one place. Unlike paper registers and counter payments, our product gives the transport office live seat availability and demand data for every route.
+<<<
+
